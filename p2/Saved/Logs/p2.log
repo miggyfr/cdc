@@ -2246,3 +2246,6 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.04-15.16.35:178][507]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_8C554AF4D24B146C01_1395780727
 [2023.03.04-15.16.35:178][507]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/map1.map1:PersistentLevel.StaticMeshActor_UAID_8C554AF4D24B146C01_1395780727
 [2023.03.04-15.16.37:640][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.04-15.21.21:369][779]LogSlate: Took 0.000438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.04-15.25.12:077][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.03.04-15.25.12:079][470]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/map1' took 0.014
