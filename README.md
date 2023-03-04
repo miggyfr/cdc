@@ -1,4 +1,6 @@
 # cdc
 the beginning of the strain
 
-## In the beginning ...
+## How to git
+
+Do not let unreal create project in a cloud directory because it is bad news.
