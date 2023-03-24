@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/cdc/UET_TD_Shooter_1/Content/maps/map1.umap"
+				"C:/cdc/UET_TD_Shooter_1/Content/maps/map1.umap",
+				"C:/cdc/UET_TD_Shooter_1/Content/Megascans/3D_Assets/Limestone_Rubble_ubxbejwda/S_Limestone_Rubble_ubxbejwda_lod5.uasset",
+				"C:/cdc/UET_TD_Shooter_1/Content/Megascans/3D_Assets/Limestone_Rocks_ubvsaf3da/S_Limestone_Rocks_ubvsaf3da_lod5.uasset",
+				"C:/cdc/UET_TD_Shooter_1/Content/Megascans/3D_Assets/Limestone_Rocks_ubxaajpda/S_Limestone_Rocks_ubxaajpda_lod5.uasset",
+				"C:/cdc/UET_TD_Shooter_1/Content/Megascans/3D_Assets/Limestone_Slab_ubxbadpda/S_Limestone_Slab_ubxbadpda_lod5.uasset",
+				"C:/cdc/UET_TD_Shooter_1/Content/Megascans/3D_Assets/Quarry_Cliff_ub3sahcda/S_Quarry_Cliff_ub3sahcda_lod5.uasset",
+				"C:/cdc/UET_TD_Shooter_1/Content/Megascans/3D_Assets/Quarry_Cliff_ub3teb1da/S_Quarry_Cliff_ub3teb1da_lod5.uasset",
+				"C:/cdc/UET_TD_Shooter_1/Content/Megascans/3D_Assets/Quarry_Cliff_ubhvccfda/S_Quarry_Cliff_ubhvccfda_lod5.uasset",
+				"C:/cdc/UET_TD_Shooter_1/Content/Megascans/3D_Assets/Quarry_Cliff_uchudhida/S_Quarry_Cliff_uchudhida_lod5.uasset"
 			]
 		}
 	]
