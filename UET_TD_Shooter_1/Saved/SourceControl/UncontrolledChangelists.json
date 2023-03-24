@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/cdc/UET_TD_Shooter_1/Content/maps/map1.umap"
+			]
+		}
+	]
+}
