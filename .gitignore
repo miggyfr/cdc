@@ -1,4 +1,8 @@
 
 *.log
+*.json
+*.ini
 UET_TD_Shooter_1/Saved/webcache_4430/*
 UET_TD_Shooter_1/Saved/Crashes/*
+UET_TD_Shooter_1/Saved/Config/*
+UET_TD_Shooter_1/Content/ParagonLtBelica/*
